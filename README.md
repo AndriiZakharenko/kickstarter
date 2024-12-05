@@ -9,4 +9,4 @@ Implemented landing page according to [Figma design](https://www.figma.com/file/
 
 ## Demo Links
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/test/)
+- [DEMO LINK](https://AndriiZakharenko.github.io/Kickstarter/)
