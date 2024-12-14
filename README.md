@@ -1,12 +1,10 @@
-# Kickstarter landing page
+# Kickstarter
 
-
-Implemented landing page according to [Figma design](https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/%E2%84%9611-(kickstarter)?node-id=19655%3A33) - Use BEM and SCSS
-- The design 1440px
-- Desktop 1280px
-- Tablet 640px
-- Mobile (> 320px)
+- HTML, CSS (SCSS), JS
+- BEM
+- Adaptive
 
 ## Demo Links
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/Kickstarter/)
+- [Demo](https://AndriiZakharenko.github.io/Kickstarter/)
+- [Figma](https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/%E2%84%9611-(kickstarter)?node-id=19655%3A33)
